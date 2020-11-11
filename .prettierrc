@@ -1,0 +1,8 @@
+{
+  "printWidth": 140, // use fuck'n screen
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "arrowParens": "avoid"
+}
